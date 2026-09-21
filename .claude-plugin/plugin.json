@@ -1,0 +1,5 @@
+{
+  "name": "finance-planner",
+  "version": "1.0.0",
+  "description": "Track household spending and project savings timeline toward a condo down payment. Commands: /finance:setup, /finance:analyze, /finance:chat"
+}
