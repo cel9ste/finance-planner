@@ -1,13 +1,17 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "cel9ste",
+  "description": "Finance planning tools for household budget tracking and condo savings goals.",
   "owner": {
-    "name": "cel9ste"
+    "name": "cel9ste",
+    "url": "https://github.com/cel9ste"
   },
   "plugins": [
     {
       "name": "finance-planner",
-      "version": "1.0.0",
-      "description": "Track household spending and project savings timeline toward a condo down payment."
+      "description": "Track household spending and project savings timeline toward a condo down payment.",
+      "source": "./",
+      "category": "productivity"
     }
   ]
 }
