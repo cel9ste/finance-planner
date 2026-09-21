@@ -1,5 +1,12 @@
 {
-  "name": "finance-planner",
-  "version": "1.0.0",
-  "description": "Track household spending and project savings timeline toward a condo down payment."
+  "owner": {
+    "name": "cel9ste"
+  },
+  "plugins": [
+    {
+      "name": "finance-planner",
+      "version": "1.0.0",
+      "description": "Track household spending and project savings timeline toward a condo down payment."
+    }
+  ]
 }
